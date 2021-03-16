@@ -1,10 +1,12 @@
 v 0.1
 
-title page - делает титульник (title_page) из 
+title_page - делает титульник (title_page) из 
 готового шаблона (title_page_template), как 
 организовать нормальную работу с двумя авторами 
 я пока хз, на край можно сделать несколько шаблонов, 
 хоть это и колхозненько будет
 
-combine all - сшивает все в один (title_page) и (main_part)
+combine_all - сшивает все в один (title_page) и (main_part)
 в (combined_file.docx)
+
+list_of_src - вообще пустой пока))
